@@ -1,0 +1,10 @@
+{
+  "base_url": "http://127.0.0.1:8080",
+  "api_key": "",
+  "exec_dir": "/home/gem/workspace",
+  "request_timeout": 120,
+  "sync_wait": 30,
+  "poll_wait": 20,
+  "hard_timeout": 600,
+  "max_output_length": 200000
+}

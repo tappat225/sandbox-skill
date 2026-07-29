@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sandbox HTTP"
+  short_description: "Run commands in AIO Sandbox over HTTP"
+  default_prompt: "Use $sandbox-skill to execute this task inside the configured AIO Sandbox."
