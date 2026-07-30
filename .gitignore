@@ -1,2 +1,5 @@
 
 config.json
+
+# dir
+__pycache__/
